@@ -1,4 +1,5 @@
-Info about the project and dataset
+Info about the project and dataset:
+
 1.The problem description states to analyze how a particular organization performed for its volume in Q2.
 2.The data includes two sheets, one for Volume(CLID, Date, Vol) and another for Geographical Region(CLID, GEOID).
 
