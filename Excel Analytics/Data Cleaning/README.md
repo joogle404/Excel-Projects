@@ -1,6 +1,7 @@
-##Info about the project and dataset:
-1.The problem description states to analyze how a particular organization performed for its volume in Q2.
-2.The data includes two sheets, one for Volume(CLID, Date, Vol) and another for Geographical Region(CLID, GEOID).
+Info about the project and dataset:
+The problem description states to analyze how a particular organization performed for its volume in Q2.
+
+The data includes two sheets, one for Volume(CLID, Date, Vol) and another for Geographical Region(CLID, GEOID).
 
 Data Cleaning
 1. To start with cleaning process, first copied the original data into two new sheets - Volume_data and Geo_data and transformed the data into data tables.
