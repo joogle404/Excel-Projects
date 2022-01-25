@@ -11,7 +11,7 @@
 
 ![image](https://user-images.githubusercontent.com/97116496/150918297-cdde3ae7-bfad-4f9c-a258-aca71aefe473.png)
 
-### 4. Next up, I decide to do a variance analysis to see the year over year growth of Q1 and Q2.
+### 4. Next up, I decided to do a variance analysis to see the year over year growth of Q1 and Q2.
 
 ![image](https://user-images.githubusercontent.com/97116496/150921015-512498f9-969f-497e-9c8b-83681317bb0d.png)
 
@@ -21,3 +21,13 @@
 
 The result shows that 61% of total volume should've consisted of NAM in Q2. However, a variance(forecasted Q2 data - actual Q2 data) of 4,416 existed, which is 30.6% of total variance.
 Here, it is noted that LATAM shows the highest percentage of the total variance to our forecasted data (56.5%).
+
+### 6. After that, By adding CLID to the pivot table, I realized some CLID were missing in certain quarters.
+
+![image](https://user-images.githubusercontent.com/97116496/150968120-46d89b62-af15-44d9-a2eb-fc03d3ca08f4.png)
+
+### 7. I counted the number of clients by region using the COUNTIFS() formula to count the values >0 for each quarter.
+
+![image](https://user-images.githubusercontent.com/97116496/150968243-fe402eaf-976b-4b27-9542-92b8d3883d63.png)
+
+
