@@ -30,4 +30,12 @@ Here, it is noted that LATAM shows the highest percentage of the total variance 
 
 ![image](https://user-images.githubusercontent.com/97116496/150968243-fe402eaf-976b-4b27-9542-92b8d3883d63.png)
 
+### 8. Looking at the year over Q2 growth rate of LATAM, I find that first two client contribute to the most of the growth.
+
+![image](https://user-images.githubusercontent.com/97116496/152827978-2eae69d2-fc29-4744-84c5-35d1bc5a7072.png)
+
+### 9. Two major clients of LATAM region left in Q2 2021 resulting in major loss of volume (7k).
+
+![image](https://user-images.githubusercontent.com/97116496/152830257-c229e7c1-6980-43ac-8f73-f49e1cba8cbc.png)
+
 
